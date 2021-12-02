@@ -1,0 +1,39 @@
+{
+  "clientes": [
+    {
+      "nombre": "Luis ",
+      "telefono": "Gome",
+      "correo": "Luiskaco@gmail.com",
+      "empresa": "Luis gome",
+      "id": 1
+    },
+    {
+      "nombre": "Luis bell",
+      "telefono": "Gome",
+      "correo": "Luiskaco@gmail.com",
+      "empresa": "Luis gome",
+      "id": 2
+    },
+    {
+      "nombre": "Estefania",
+      "telefono": "93747474",
+      "correo": "Luiskaco@gmail.com",
+      "empresa": "Proband",
+      "id": 3
+    },
+    {
+      "nombre": "Estefania",
+      "telefono": "6374738",
+      "correo": "Estefania@ggmpo.com",
+      "empresa": "Mna bew",
+      "id": 6
+    },
+    {
+      "nombre": "Leonard",
+      "telefono": "527272",
+      "correo": "cuenca623@gmail.com",
+      "empresa": "Veda",
+      "id": 11
+    }
+  ]
+}
