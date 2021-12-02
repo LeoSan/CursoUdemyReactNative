@@ -1,0 +1,7 @@
+/*importa las utilidades y componente bases */
+@tailwind base; 
+
+@tailwind components; 
+
+@tailwind utilities;
+
